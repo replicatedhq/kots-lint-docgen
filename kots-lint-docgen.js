@@ -45,7 +45,7 @@ const parse = json => {
   Level: ${type}
 
   ${message}
-    `
+`
   }).join('\n')
 
   return markdown
