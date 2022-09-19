@@ -1,0 +1,10 @@
+{
+  "name": "kots-lint-docgen",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": "./kots-lint-docgen.js",
+  "dependencies": {
+    "get-stdin": "^9.0.0",
+    "yargs": "^17.5.1"
+  }
+}
